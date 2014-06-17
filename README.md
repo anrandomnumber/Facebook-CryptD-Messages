@@ -32,6 +32,8 @@ To decrypt message
 
 Select message from beggining to the end and click on icon of the extension in url bar or press Ctrl+Shif+X
 
+If you need more info you can see this video https://www.youtube.com/watch?v=CQuZ2Pzo_kg
+
 
 Bugs
 =====================
